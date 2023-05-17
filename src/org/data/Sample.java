@@ -5,7 +5,11 @@ public class Sample {
 		System.out.println("java");
 		System.out.println("selenium");
 		
+		System.out.println("framework");
+		System.out.println("cucumber");
+		
 		System.out.println("Manual");
+
 	}
 }
 
